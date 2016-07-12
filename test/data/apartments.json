@@ -1,0 +1,38 @@
+[
+{
+    "_id" : ObjectId("5783fe256e95533e18133b10"),
+    "name" : "a1",
+    "sqft" : 1800,
+    "bedrooms" : 4,
+    "floor" : 2,
+    "rent" : 2000,
+    "collectedrent" : 0,
+    "renter" : null,
+    "createdAt" : ISODate("2016-07-11T20:14:29.407Z"),
+    "__v" : 0
+},
+{
+    "_id" : ObjectId("5783fe521a8f209018c07c1e"),
+    "name" : "a2",
+    "sqft" : 1800,
+    "bedrooms" : 4,
+    "floor" : 3,
+    "rent" : 2500,
+    "collectedrent" : 0,
+    "renter" : null,
+    "createdAt" : ISODate("2016-07-11T20:15:14.066Z"),
+    "__v" : 0
+},
+{
+    "_id" : ObjectId("5783fe8c0ef3760c195ab623"),
+    "name" : "a3",
+    "sqft" : 2500,
+    "bedrooms" : 4,
+    "floor" : 19,
+    "rent" : 2800,
+    "collectedrent" : 0,
+    "renter" : null,
+    "createdAt" : ISODate("2016-07-11T20:16:12.212Z"),
+    "__v" : 0
+}
+]

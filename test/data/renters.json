@@ -1,0 +1,30 @@
+[
+  {
+    "_id" : ObjectId("5783fe256e95533e18133b11"),
+    "name" : "Bob",
+    "money" : 10000,
+    "createdAt" : ISODate("2016-07-11T20:14:29.439Z"),
+    "__v" : 0
+},
+{
+    "_id" : ObjectId("5783fe521a8f209018c07c1f"),
+    "name" : "Joe",
+    "money" : 8000,
+    "createdAt" : ISODate("2016-07-11T20:15:14.102Z"),
+    "__v" : 0
+},
+{
+    "_id" : ObjectId("5783fe8c0ef3760c195ab624"),
+    "name" : "Ann",
+    "money" : 12000,
+    "createdAt" : ISODate("2016-07-11T20:16:12.250Z"),
+    "__v" : 0
+},
+{
+    "_id" : ObjectId("5783fffd3e563b1c1a2d15d8"),
+    "name" : "Jill",
+    "money" : 20000,
+    "createdAt" : ISODate("2016-07-11T20:22:21.128Z"),
+    "__v" : 0
+}
+]
